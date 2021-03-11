@@ -14,7 +14,7 @@ We have one goal and that is to discover, train and graduate a job-market-ready 
 - AI and Machine learning Specialist
 - Game Developer
 - Computer Security Engineer
-- Quality Assurance Engineers
+- Quality Assurance Engineer
 
 ## What you will learn?
 
