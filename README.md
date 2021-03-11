@@ -20,6 +20,7 @@ We have one goal and that is to discover, train and graduate a job-market-ready 
 
 - Several programming languages specifically: Python, Javascript, Java, HTML, and CSS.
 - Database: MangoDB, MySQL, and PosgresSQL.
+- Version Control: GitHub Lab and Bitbucket git tutorial.
 - Issue tracking tools: Jira and Github Issues.
 - Productivity and team managment tools: Slack, Github, ClickUp, Visual Studio Code, LinkedIn, Notion, and varoius Google tools.
 - Getting help and support from : StackOverFlow and Github Issues.
