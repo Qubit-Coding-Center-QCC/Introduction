@@ -13,6 +13,7 @@ We have one goal and that is to discover, train and graduate a job-market-ready 
 - DevOps Engineer/ Infrastructure Developer
 - AI and Machine learning Specialist
 - Game Developer
+- Blockchain Developer
 - Computer Security Engineer
 - Quality Assurance Engineer
 
