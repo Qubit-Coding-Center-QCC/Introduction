@@ -3,7 +3,7 @@
 Qubit Coding Center is a Computer Education & Training Institute.
 
 
-## Goal & Mission
+## Mission statement
 
 We have one goal and that is to discover, train and graduate a job-market-ready talented software developers in highly specialized domains including and not limited to: 
 
