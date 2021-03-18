@@ -2,6 +2,7 @@
 
 Qubit Coding Center is a Computer Education & Training Institute.
 
+[PowerPoint formate](https://docs.google.com/presentation/d/e/2PACX-1vT6t4uXux2kVe-1gAs9yd-dLuHq9NFQebAk1PJruvq4wSPfvVeWU9OV_LKTI9Sg-rY_iZugayoHAy6K/pub?start=false&loop=false&delayms=3000)
 
 ## Mission statement
 
